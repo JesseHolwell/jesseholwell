@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0ea5e9,100:14b8a6&text=Hi,%20I'm%20Jesse&fontColor=ffffff&desc=Full-Stack%20•%20Cloud%20•%20Health-Tech%20•%203D%20Vision&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/JesseHolwell?style=for-the-badge&color=14b8a6&label=Followers)](https://github.com/JesseHolwell?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=JesseHolwell&style=for-the-badge&color=14b8a6&labelColor=0d1117&label=Profile+Views)
-
-</div>
-
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -43,12 +36,17 @@
   <tr>
     <td>📬</td>
     <td><b>Contact</b></td>
-    <td><a href="mailto:jholwell@capebionics.com">jholwell@capebionics.com</a></td>
+    <td><a href="mailto:jesse.d.holwell@gmail.com">jesse.d.holwell@gmail.com</a></td>
+  </tr>
+    <tr>
+    <td>🌐</td>
+    <td><b>Company</b></td>
+    <td><a href="https://capebionics.com">capebionics.com</a></td>
   </tr>
   <tr>
     <td>🌐</td>
     <td><b>Website</b></td>
-    <td><a href="https://capebionics.com">capebionics.com</a></td>
+    <td><a href="https://jesseholwell.com">jesseholwell.com</a></td>
   </tr>
 </table>
 
@@ -101,7 +99,7 @@
 ---
 
 <h3 align="center">
-  🧵 Turning point clouds into garments people can wear.
+  🧵 Turning pictures into point clouds into garments people can wear.
 </h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:14b8a6&height=120&section=footer"/>
