@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0ea5e9,100:14b8a6&text=Hi,%20I'm%20Jesse&fontColor=ffffff&desc=Full-Stack%20•%20Cloud%20•%20Health-Tech%20•%203D%20Vision&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff6b5b,100:ffb020&text=Hi,%20I'm%20Jesse&fontColor=ffffff&desc=Full-Stack%20•%20Cloud%20•%20Health-Tech%20•%203D%20Vision&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
 </p>
 
 ---
@@ -74,4 +74,4 @@
   🧵 Turning pictures into point clouds into garments people can wear.
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:14b8a6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b5b,100:ffb020&height=120&section=footer"/>
