@@ -38,7 +38,7 @@
     <td><b>Contact</b></td>
     <td><a href="mailto:jesse.d.holwell@gmail.com">jesse.d.holwell@gmail.com</a></td>
   </tr>
-    <tr>
+  <tr>
     <td>🌐</td>
     <td><b>Company</b></td>
     <td><a href="https://capebionics.com">capebionics.com</a></td>
@@ -71,29 +71,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JesseHolwell&show_icons=true&count_private=true&theme=transparent&title_color=14b8a6&icon_color=0ea5e9&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JesseHolwell&show_icons=true&count_private=true&theme=default">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JesseHolwell&show_icons=true&count_private=true&theme=default" height="180px">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHolwell&layout=compact&langs_count=8&theme=transparent&title_color=14b8a6&text_color=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHolwell&layout=compact&langs_count=8&theme=default">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseHolwell&layout=compact&langs_count=8&theme=default" height="180px">
-  </picture>
-
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseHolwell&theme=transparent&ring=14b8a6&fire=0ea5e9&currStreakLabel=14b8a6" alt="GitHub Streak" height="180px"/>
 </div>
 
 ---
