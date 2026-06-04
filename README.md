@@ -10,7 +10,7 @@
 
 <p align="center" style="max-width:600px;">
 🧬 Building <b>health-tech</b> — 3D body scanning & custom medical-device manufacturing<br><br>
-⚙️ I work end-to-end: <b>backend APIs</b>, <b>iOS apps</b>, <b>web portals</b>, <b>cloud infra</b>, and the <b>vision pipeline</b> that ties them together.
+⚙️ End-to-end across <b>backend APIs</b>, <b>iOS apps</b>, <b>web portals</b>, <b>cloud infra</b> and <b>3D vision</b>
 </p>
 
 </div>
