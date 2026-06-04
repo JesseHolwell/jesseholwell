@@ -40,11 +40,6 @@
   </tr>
   <tr>
     <td>🌐</td>
-    <td><b>Company</b></td>
-    <td><a href="https://capebionics.com">capebionics.com</a></td>
-  </tr>
-  <tr>
-    <td>🌐</td>
     <td><b>Website</b></td>
     <td><a href="https://jesseholwell.com">jesseholwell.com</a></td>
   </tr>
